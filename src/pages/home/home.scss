@@ -1,0 +1,13 @@
+page-home {
+	
+}
+
+.platform-core, .md {
+	display: none !important;
+	z-index: 0;
+}
+
+canvas, #three {
+	background: red;
+	z-index: 9999;
+}
